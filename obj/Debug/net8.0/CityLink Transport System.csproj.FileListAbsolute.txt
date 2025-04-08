@@ -1,0 +1,32 @@
+D:\Projects\CityLink Transport System\bin\Debug\net8.0\appsettings.Development.json
+D:\Projects\CityLink Transport System\bin\Debug\net8.0\appsettings.json
+D:\Projects\CityLink Transport System\bin\Debug\net8.0\CityLink Transport System.exe
+D:\Projects\CityLink Transport System\bin\Debug\net8.0\CityLink Transport System.deps.json
+D:\Projects\CityLink Transport System\bin\Debug\net8.0\CityLink Transport System.runtimeconfig.json
+D:\Projects\CityLink Transport System\bin\Debug\net8.0\CityLink Transport System.dll
+D:\Projects\CityLink Transport System\bin\Debug\net8.0\CityLink Transport System.pdb
+D:\Projects\CityLink Transport System\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Projects\CityLink Transport System\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\CityLink Transport System\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\CityLink Transport System\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\CityLink Transport System\obj\Debug\net8.0\CityLink Transport System.csproj.AssemblyReference.cache
+D:\Projects\CityLink Transport System\obj\Debug\net8.0\CityLink Transport System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CityLink Transport System\obj\Debug\net8.0\CityLink Transport System.AssemblyInfoInputs.cache
+D:\Projects\CityLink Transport System\obj\Debug\net8.0\CityLink Transport System.AssemblyInfo.cs
+D:\Projects\CityLink Transport System\obj\Debug\net8.0\CityLink Transport System.csproj.CoreCompileInputs.cache
+D:\Projects\CityLink Transport System\obj\Debug\net8.0\CityLink Transport System.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\CityLink Transport System\obj\Debug\net8.0\CityLink Transport System.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\CityLink Transport System\obj\Debug\net8.0\staticwebassets.build.json
+D:\Projects\CityLink Transport System\obj\Debug\net8.0\staticwebassets.development.json
+D:\Projects\CityLink Transport System\obj\Debug\net8.0\staticwebassets\msbuild.CityLink Transport System.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects\CityLink Transport System\obj\Debug\net8.0\staticwebassets\msbuild.build.CityLink Transport System.props
+D:\Projects\CityLink Transport System\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CityLink Transport System.props
+D:\Projects\CityLink Transport System\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CityLink Transport System.props
+D:\Projects\CityLink Transport System\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Projects\CityLink Transport System\obj\Debug\net8.0\scopedcss\bundle\CityLink Transport System.styles.css
+D:\Projects\CityLink Transport System\obj\Debug\net8.0\CityLink.5FC0E354.Up2Date
+D:\Projects\CityLink Transport System\obj\Debug\net8.0\CityLink Transport System.dll
+D:\Projects\CityLink Transport System\obj\Debug\net8.0\refint\CityLink Transport System.dll
+D:\Projects\CityLink Transport System\obj\Debug\net8.0\CityLink Transport System.pdb
+D:\Projects\CityLink Transport System\obj\Debug\net8.0\CityLink Transport System.genruntimeconfig.cache
+D:\Projects\CityLink Transport System\obj\Debug\net8.0\ref\CityLink Transport System.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CityLink Transport System.props" />
+</Project>
